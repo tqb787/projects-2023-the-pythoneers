@@ -1,9 +1,8 @@
-# \[Group name\]
+# \[The Pythoneers\]
 
 **Group members:**
-- A
-- B
-- C
+- Emil Wahl
+
 
 This repository contains  
 1. Inaugural project. 
