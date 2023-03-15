@@ -1,4 +1,4 @@
-# \The Pythoneers\
+# The Pythoneers
 
 **Group members:**
 - Emil Wahl
