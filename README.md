@@ -1,7 +1,7 @@
 # The Pythoneers
 
 **Group members:**
-- Emil Wahl
+- Emil (sgp152)
 
 
 This repository contains  
