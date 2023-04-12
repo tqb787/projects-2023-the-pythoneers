@@ -2,6 +2,8 @@
 
 **Group members:**
 - Emil (sgp152)
+- Cecilie Amalie Tønder Jensen (wdt620)
+- Cecilie Møller Nielsen (tqb787)
 
 
 This repository contains  
