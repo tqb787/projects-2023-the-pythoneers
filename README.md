@@ -8,5 +8,5 @@
 
 This repository contains  
 1. Inaugural project. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
+2. Data project. We fetch data from FRED on Inflation unemployment and illustrate the The expectations-augmented Phillips curve
 3. Model project. We model ...
