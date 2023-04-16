@@ -1,7 +1,9 @@
 # The Pythoneers
 
 **Group members:**
-- Emil (sgp152)
+- Emil Schaldemose Wahl Hansen(sgp152)
+- Cecilie Møller Nielsen (Tqb787)
+- Cecilie Amalie Tønder Jensen (wdt620)
 
 
 This repository contains  
